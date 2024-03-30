@@ -29,3 +29,6 @@ If any of the `assert` statements fail **with** `severity error` then GHDL will 
 
 Waveform
 ![Waveform from thunderbird_fsm_tb](waveform.png)
+
+iCloud video Link
+https://share.icloud.com/photos/090GG7NZ5TUOpXq-BGiptaeTA
