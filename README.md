@@ -34,4 +34,4 @@ iCloud video Link
 https://share.icloud.com/photos/090GG7NZ5TUOpXq-BGiptaeTA
 
 Documenation Statement:
-I used code from ice4 on this entire assignment. I used the same assert statements as my lab partner, C3C John Costello, for the test bench.
+I referenced code from ice4 on this entire assignment. I used the same assert statements as my lab partner, C3C John Costello, for the test bench.
